@@ -1,0 +1,19 @@
+# Local environments
+.venv/
+venv/
+
+# Data files
+*.csv
+*.csv.gz
+
+# Generated artifacts
+outputs/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local secrets/config
+.env
+.env.*
